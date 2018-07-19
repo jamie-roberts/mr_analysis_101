@@ -5,7 +5,7 @@ Jupyter notebook covering the basics of magnetic resonance analysis
 
 A static version of this notebook is available [here](http://nbviewer.ipython.org/github/rtrhd/mr_analysis_101/blob/master/mr_analysis_101.ipynb).
 
-The source code is available [here](https://github.com/rtrhd/mr_analysis_101). It is a copy of the [original by maloney](https://github.com/maloney/mr_analysis_101) 
+The source code is available [here](https://github.com/rtrhd/mr_analysis_101). It is a copy of the [original by moloney](https://github.com/moloney/mr_analysis_101) 
 
 With the source code and a suitable Python environment you can run a "live" version of this notebook on your own computer.
 This will allow you to make modifications to the notebook and see the results immediately.
