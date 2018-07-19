@@ -22,6 +22,8 @@ Some specific packages are needed for this notebook other than the standard scie
 * [nibabel](http://nipy.org/nibabel)
 * [nmrglue](http://nmrglue.readthedocs.io)
 
-Of these `pydicom` and `nibabel` are available in the `conda-forge` channel and `nmrglue` can be installed with [pip](https://pypi.org/project/nmrglue)`. 
+Of these `pydicom` and `nibabel` are available in the `conda-forge` channel and `nmrglue` can be installed with [pip](https://pypi.org/project/nmrglue). 
+
+A live version of the notebook may also be started in [binder](https://mybinder.org/) using the button below:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rtrhd/mr_analysis_101/master?filepath=mr_analysis_101.ipynb)
