@@ -23,3 +23,5 @@ Some specific packages are needed for this notebook other than the standard scie
 * [nmrglue](http://nmrglue.readthedocs.io)
 
 Of these `pydicom` and `nibabel` are available in the `conda-forge` channel and `nmrglue` can be installed with [pip](https://pypi.org/project/nmrglue)`. 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rtrhd/mr_analysis_101/master?filepath=mr_analysis_101.ipynb)
